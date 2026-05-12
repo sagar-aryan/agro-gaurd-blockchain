@@ -1,0 +1,25 @@
+<svg width="240" height="320" viewBox="0 0 240 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mandrake-root" x1="57" y1="84" x2="177" y2="258" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E9D8A6"/>
+      <stop offset="1" stop-color="#A67C52"/>
+    </linearGradient>
+    <linearGradient id="mandrake-leaf" x1="56" y1="51" x2="186" y2="114" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B7D671"/>
+      <stop offset="1" stop-color="#527B3E"/>
+    </linearGradient>
+  </defs>
+  <path d="M119 87C96 87 78 104 78 126V172C78 194 93 211 113 211H127C147 211 162 194 162 172V126C162 104 143 87 119 87Z" fill="url(#mandrake-root)"/>
+  <path d="M99 203C92 225 84 245 67 270" stroke="#A67C52" stroke-width="14" stroke-linecap="round"/>
+  <path d="M139 203C148 225 158 247 175 273" stroke="#A67C52" stroke-width="14" stroke-linecap="round"/>
+  <path d="M117 214C111 241 109 266 111 299" stroke="#A67C52" stroke-width="12" stroke-linecap="round"/>
+  <path d="M120 82C95 64 82 43 78 20C102 30 118 45 126 68" fill="url(#mandrake-leaf)"/>
+  <path d="M119 79C135 53 157 34 186 24C178 52 162 73 137 87" fill="url(#mandrake-leaf)"/>
+  <path d="M118 89C101 70 81 64 58 68C70 86 86 99 108 107" fill="url(#mandrake-leaf)"/>
+  <path d="M121 94C137 78 159 74 184 81C171 96 155 108 132 113" fill="url(#mandrake-leaf)"/>
+  <circle cx="101" cy="133" r="8" fill="#402B1E"/>
+  <circle cx="140" cy="133" r="8" fill="#402B1E"/>
+  <path d="M98 163C111 178 127 179 143 163" stroke="#7A3E2D" stroke-width="10" stroke-linecap="round"/>
+  <path d="M92 116C95 109 101 105 110 105" stroke="#7A3E2D" stroke-width="6" stroke-linecap="round"/>
+  <path d="M132 105C141 105 148 109 151 116" stroke="#7A3E2D" stroke-width="6" stroke-linecap="round"/>
+</svg>

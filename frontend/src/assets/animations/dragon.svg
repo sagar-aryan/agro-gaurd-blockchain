@@ -1,0 +1,16 @@
+<svg width="420" height="220" viewBox="0 0 420 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dragon-fire" x1="47" y1="28" x2="354" y2="191" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7D37A" />
+      <stop offset="0.46" stop-color="#D46342" />
+      <stop offset="1" stop-color="#5C1A1B" />
+    </linearGradient>
+  </defs>
+  <path d="M47 126C88 92 138 63 186 65C218 66 239 81 255 101C270 120 281 142 308 144C327 145 349 138 373 118C362 145 343 161 316 169C287 177 261 173 235 158C209 143 191 123 165 117C136 111 95 122 58 156L47 126Z" fill="url(#dragon-fire)" fill-opacity="0.88"/>
+  <path d="M183 67C204 41 232 24 270 18C255 34 252 49 261 64C281 57 305 56 333 63C312 72 298 83 291 96C312 104 334 117 356 136C318 136 288 129 267 116C256 131 239 141 216 147C224 129 223 113 212 98C202 85 192 75 183 67Z" fill="#D4AF37" fill-opacity="0.92"/>
+  <path d="M252 57C241 50 231 49 220 54C227 45 235 41 244 40L252 57Z" fill="#F8E8B0"/>
+  <path d="M325 74C336 78 344 86 350 97C338 94 330 89 324 80L325 74Z" fill="#F8E8B0"/>
+  <path d="M155 110C135 96 118 91 103 95C114 82 129 76 149 77L155 110Z" fill="#E0B24D" fill-opacity="0.85"/>
+  <circle cx="275" cy="58" r="6" fill="#0E0E0E"/>
+  <path d="M354 114C373 112 392 106 409 96C402 118 390 135 374 146L354 114Z" fill="#F28B57" fill-opacity="0.8"/>
+</svg>

@@ -1,0 +1,24 @@
+# --- Virtual Environments ---
+venv/
+.venv/
+
+# --- Secrets & Credentials ---
+.env
+backend/.env
+frontend/.env
+frontend/src/.env
+
+# --- Python & Backend Cache ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Databases & ML Models ---
+*.db
+*.sqlite3
+backend/sensors.db
+backend/yolov8n.pt
+
+# --- Frontend Node Modules ---
+frontend/node_modules/
+.npm/

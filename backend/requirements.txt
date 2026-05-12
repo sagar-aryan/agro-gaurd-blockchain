@@ -1,0 +1,9 @@
+fastapi
+httpx
+opencv-python
+python-dotenv
+ultralytics
+uvicorn[standard]
+
+# Optional but required for Hedera topic submission.
+hedera-sdk-py
